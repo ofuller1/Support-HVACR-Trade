@@ -10,6 +10,7 @@ This is the official landing page for **O'Neil Fuller**, a Certified Master HVAC
   - HVACR for Kids
 - Contact form for inquiries and connection
 - Responsive design for desktop and mobile
+- Smart Thermostat ROI calculator to estimate potential savings
 
 ## Usage
 
@@ -37,6 +38,7 @@ You can publish this landing page easily using services like:
 ## Files
 
 - `index.html` — The main landing page HTML file.
+- `roi-calculator.js` — Script powering the ROI calculator.
 
 ## License
 
