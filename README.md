@@ -32,7 +32,7 @@ You can publish this landing page easily using services like:
 
 - To update content, edit the `index.html` file directly.
 - Replace placeholder book cover images with actual covers by updating the `src` attribute in the `<img>` tags.
-- Update contact form `action` attribute with your preferred form handling service or backend endpoint.
+- Update the contact form `action` attribute with your preferred form handling service or backend endpoint. Example: `<form action="https://formspree.io/f/your-id" method="POST">`.
 
 ## Files
 
