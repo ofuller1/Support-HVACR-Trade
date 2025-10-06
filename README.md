@@ -40,7 +40,7 @@ You can publish this landing page easily using services like:
 
 ## License
 
-Feel free to use and modify this page for your own professional website.
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
